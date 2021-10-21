@@ -55,11 +55,6 @@ body {
 .icons a {
     color: #3d3d3d;
 }
-
-#github:hover {
-    color: black;
-}
-
 .title {
     text-align: center;
     font-size: 5rem;
