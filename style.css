@@ -60,14 +60,6 @@ body {
     color: black;
 }
 
-#telegram:hover {
-    color: #2CA3E0;
-}
-
-#twitter:hover {
-    color: #1A91DA;
-}
-
 .title {
     text-align: center;
     font-size: 5rem;
